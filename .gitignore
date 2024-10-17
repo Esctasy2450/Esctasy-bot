@@ -1,4 +1,5 @@
 storage/logs
+storage/nunu-esctasy.db
 .idea
 *.log
 deploy/docker-compose/conf
